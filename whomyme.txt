@@ -8,3 +8,5 @@ Test
 Simon kecik
 
 MyMiE yang kecik
+
+Hari ini pun MyMiE masih kecik.
