@@ -9,4 +9,8 @@ Simon kecik
 
 MyMiE yang kecik
 
+<<<<<<< HEAD
 asdkasndfaf
+=======
+Hari ini pun MyMiE masih kecik.
+>>>>>>> dev-il
